@@ -108,5 +108,5 @@ contract myTestToken is BasicToken {
   string public constant name = "MyTest Token";
   string public constant symbol = "mtt";
   uint8 public constant decimals = 18;
-  uint256 public constant INITIAL_SUPPLY = 10000 * (10 ** uint256(decimals));
+  uint public totalSupply = 10000 * (10 ** uint256(decimals));
 }
