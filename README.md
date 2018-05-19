@@ -1,10 +1,10 @@
 <div  align="center">    
- <img src="(https://olxvlcccu.qnssl.com/blog/wwmuz.jpg?imageslim" width = "200" alt="lordless.io" align=center />
+ <img src="https://olxvlcccu.qnssl.com/blog/wwmuz.jpg?imageslim" width = "500" alt="lordless.io" align=center />
 </div>
 
 ## DApp Course
 ---
-该repo上维护了 LORDLESS官方发布的DApp学习课程的相关代码
+维护LORDLESS官方课程代码
 
 ### 目录
 
