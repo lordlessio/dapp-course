@@ -7,8 +7,8 @@
 
 ### 目录
 
-LESSON 1 - [基于Ethereum的DApp实战(一)准备](https://zhuanlan.zhihu.com/p/36889873)
-LESSON 2 - [基于Ethereum的DApp实战(二)用remix管理智能合约]()
+* LESSON 1 - [基于Ethereum的DApp实战(一)准备](https://zhuanlan.zhihu.com/p/36889873)
+* LESSON 2 - [基于Ethereum的DApp实战(二)用remix管理智能合约](https://github.com/lordlessio/dapp-course/tree/master/LESSON2)
 
 ### 社区
 * [知乎专栏](https://zhuanlan.zhihu.com/lordless)
