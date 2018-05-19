@@ -8,7 +8,7 @@
 ### 目录
 
 * tutorial 1 - [基于Ethereum的DApp实战(一)准备](https://zhuanlan.zhihu.com/p/36889873)
-* tutorial 2 - [基于Ethereum的DApp实战(二) 10分钟发布一个ERC20 Token](https://github.com/lordlessio/dapp-course/tree/master/lesson-02)
+* tutorial 2 - [基于Ethereum的DApp实战(二) 5分钟发布ERC20代币](https://github.com/lordlessio/dapp-course/tree/master/lesson-02)
 
 ### 社区
 * [知乎专栏](https://zhuanlan.zhihu.com/lordless)
